@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+	<body>
+		<nav class="pa3 pa4-ns">
+			<article class="vh-100 dt w-100 bg-white">				
+				<div class="dtc v-mid tc green ph3 ph4-l">
+					<img src="../In%20Harmony-Magazines-Green.png" alt="">
+						<div class="tc pb3">
+							<a class="link dim gray f6 f5-ns dib mr3" href="about.html" title="About">About</a>
+							<a class="link dim gray f6 f5-ns dib mr3" href="join.html" title="Join Us">Join Us</a>
+							<a class="link dim gray f6 f5-ns dib mr3" href="donate.html" title="Donate">Donate</a>
+							<a class="link dim gray f6 f5-ns dib" href="contact.html" title="Contact">Contact</a>
+						</div>
+					</div>
+				</article>
+			</nav>
+	</body>
+</html>
